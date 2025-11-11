@@ -1,0 +1,42 @@
+version: '3.8'
+
+services:
+  mongodb:
+    image: mongo:8.2
+    container_name: hna_mongodb
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongodb_data:/data/db
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: admin123
+    networks:
+      - hna_network
+    restart: unless-stopped
+
+  api:
+    build: .
+    container_name: hna_api
+    ports:
+      - "8000:8000"
+    depends_on:
+      - mongodb
+    environment:
+      MONGODB_URI: mongodb://admin:admin123@mongodb:27017/?authSource=admin
+      MONGODB_DB_NAME: hna_catalog
+    volumes:
+      - ./app:/app/app
+      - ./data_load:/app/data_load
+      - ./Housing_Needs_Assessment_Data_2025:/app/data
+    networks:
+      - hna_network
+    restart: unless-stopped
+
+volumes:
+  mongodb_data:
+
+networks:
+  hna_network:
+    driver: bridge
+
