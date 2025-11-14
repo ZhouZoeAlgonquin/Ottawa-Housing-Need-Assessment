@@ -1,0 +1,42 @@
+﻿Year,Number of Households,Population Percentage,Household Size,Dwelling Type,Tenure
+2006,"321,100",1,All Households,All,All
+2011,"353,245",1,All Households,All,All
+2016,"373,755",1,All Households,All,All
+2021,"407,255",1,All Households,All,All
+2011,99968,0.283,1 Person,All,All
+2011,116218,0.329,2 People,All,All
+2011,55813,0.158,3 People,All,All
+2011,52987,0.15,4 People,All,All
+2011,28260,0.08,5+ People,All,All
+2016,105750,0.28,1 Person,All,All
+2016,124280,0.33,2 People,All,All
+2016,58010,0.16,3 People,All,All
+2016,55215,0.15,4 People,All,All
+2016,30500,0.08,5+ People,All,All
+2021,116475,0.286,1 Person,All,All
+2021,135209,0.332,2 People,All,All
+2021,61903,0.152,3 People,All,All
+2021,59052,0.145,4 People,All,All
+2021,34617,0.085,5+ People,All,All
+2021,"157,280",0.604423265,All Households,Single-Detached,Owners
+2021,"12,500",0.085016663,All Households,Single-Detached,Renters
+2021,"16,940",0.065100013,All Households,Semi-Detached,Owners
+2021,"4,675",0.031796232,All Households,Semi-Detached,Renters
+2021,"56,615",0.217570086,All Households,Row,Owners
+2021,"30,740",0.209072978,All Households,Row,Renters
+2021,"2,815",0.010817977,All Households,Duplex,Owners
+2021,"4,585",0.031184112,All Households,Duplex,Renters
+2021,"9,310",0.035778107,All Households,Low-Rise Apartment,Owners
+2021,"33,695",0.229170917,All Households,Low-Rise Apartment,Renters
+2021,"16,435",0.063159311,All Households,High-Rise Apartment,Owners
+2021,"60,455",0.41117459,All Households,High-Rise Apartment,Renters
+2021,820,0.00315124,All Households,Other,Owners
+2021,380,0.002584507,All Households,Other,Renters
+2006,211926,0.66,All Households,All,Owners
+2006,109174,0.34,All Households,All,Renters
+2011,237734,0.673,All Households,All,Owners
+2011,115511,0.327,All Households,All,Renters
+2016,245470,0.657,All Households,All,Owners
+2016,128285,0.343,All Households,All,Renters
+2021,260220,0.639,All Households,All,Owners
+2021,147030,0.361,All Households,All,Renters

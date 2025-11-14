@@ -1,0 +1,5 @@
+﻿Year,Median Income,Average Income,Very Low Income (20% or under of AMHI),Low Income (21% to 50% of AMHI),Moderate Income (51% to 80% of AMHI),Median Income (81% to 120% of AMHI),High Income (121% and more of AMHI),A. Very Low Income (20% or under of AMHI),B. Low Income (21% to 50% of AMHI),C. Moderate Income (51% to 80% of AMHI),D. Median Income (81% to 120% of AMHI),E. High Income (121% and more of AMHI)
+2006,"$69,743 ",,,,,,,,,,,
+2011,"$79,634 ","$96,815 ",,,,,,,,,,
+2016,"$85,981 ","$106,372 ",0.032,0.161,0.176,0.213,0.418,0.032,0.161,0.176,0.213,0.418
+2021,"$102,000 ","$126,700 ",0.026,0.162,0.187,0.225,0.4,0.026,0.162,0.187,0.225,0.4

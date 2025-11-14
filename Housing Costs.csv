@@ -1,0 +1,63 @@
+﻿Year,Rent Range,Percentage of Households,Rent Metric Type,Rent Amount,City,Fiscal Quarter
+2006,Less than $500 Per Month,0.147,,,Ottawa,Full Year
+2006,$500 to $999 Per Month,0.383,,,Ottawa,Full Year
+2006,"$1,000 to $1,499 Per Month",0.239,,,Ottawa,Full Year
+2006,"$1,500 to $1,999 Per Month",0.15,,,Ottawa,Full Year
+2006,"$2,000 and Over Per Month",0.081,,,Ottawa,Full Year
+2011,Less than $500 Per Month,0.102,,,Ottawa,Full Year
+2011,$500 to $999 Per Month,0.35,,,Ottawa,Full Year
+2011,"$1,000 to $1,499 Per Month",0.234,,,Ottawa,Full Year
+2011,"$1,500 to $1,999 Per Month",0.181,,,Ottawa,Full Year
+2011,"$2,000 and Over Per Month",0.133,,,Ottawa,Full Year
+2016,Less than $500 Per Month,0.072,,,Ottawa,Full Year
+2016,$500 to $999 Per Month,0.3,,,Ottawa,Full Year
+2016,"$1,000 to $1,499 Per Month",0.243,,,Ottawa,Full Year
+2016,"$1,500 to $1,999 Per Month",0.201,,,Ottawa,Full Year
+2016,"$2,000 and Over Per Month",0.184,,,Ottawa,Full Year
+2021,Less than $500 Per Month,0.053,,,Ottawa,Full Year
+2021,$500 to $999 Per Month,0.255,,,Ottawa,Full Year
+2021,"$1,000 to $1,499 Per Month",0.208,,,Ottawa,Full Year
+2021,"$1,500 to $1,999 Per Month",0.203,,,Ottawa,Full Year
+2021,"$2,000 and Over Per Month",0.28,,,Ottawa,Full Year
+2014,,,CHMC Median Monthly Rent,$992,Ottawa,Full Year
+2014,,,CHMC Average Monthly Rent,"$1,045",Ottawa,Full Year
+2015,,,CHMC Median Monthly Rent,"$1,020",Ottawa,Full Year
+2015,,,CHMC Average Monthly Rent,"$1,079",Ottawa,Full Year
+2016,,,CHMC Median Monthly Rent,"$1,038",Ottawa,Full Year
+2016,,,CHMC Average Monthly Rent,"$1,098",Ottawa,Full Year
+2017,,,CHMC Median Monthly Rent,"$1,066",Ottawa,Full Year
+2017,,,CHMC Average Monthly Rent,"$1,137",Ottawa,Full Year
+2018,,,CHMC Median Monthly Rent,"$1,132",Ottawa,Full Year
+2018,,,CHMC Average Monthly Rent,"$1,197",Ottawa,Full Year
+2019,,,CHMC Median Monthly Rent,"$1,219",Ottawa,Full Year
+2019,,,CHMC Average Monthly Rent,"$1,304",Ottawa,Full Year
+2020,,,CHMC Median Monthly Rent,"$1,299",Ottawa,Full Year
+2020,,,CHMC Average Monthly Rent,"$1,380",Ottawa,Full Year
+2021,,,CHMC Median Monthly Rent,"$1,349",Ottawa,Full Year
+2021,,,CHMC Average Monthly Rent,"$1,430",Ottawa,Full Year
+2022,,,CHMC Median Monthly Rent,"$1,400",Ottawa,Full Year
+2022,,,CHMC Average Monthly Rent,"$1,481",Ottawa,Full Year
+2023,,,CHMC Median Monthly Rent,"$1,490",Ottawa,Full Year
+2023,,,CHMC Average Monthly Rent,"$1,560",Ottawa,Full Year
+2024,,,CHMC Median Monthly Rent,"$1,600",Ottawa,Full Year
+2024,,,CHMC Average Monthly Rent,"$1,691",Ottawa,Full Year
+2022,,,CMHC Non-turnover Unit Rent,"$1,600",Toronto,Full Year
+2022,,,CMHC Turnover Unit Rent,"$2,110",Toronto,Full Year
+2022,,,CMHC Non-turnover Unit Rent,"$1,847",Vancouver,Full Year
+2022,,,CMHC Turnover Unit Rent,"$2,325",Vancouver,Full Year
+2022,,,CMHC Non-turnover Unit Rent,"$1,520",Ottawa,Full Year
+2022,,,CMHC Turnover Unit Rent,"$1,831",Ottawa,Full Year
+2022,,,CMHC Non-turnover Unit Rent,$963,Montréal,Full Year
+2022,,,CMHC Turnover Unit Rent,"$1,235",Montréal,Full Year
+2022,,,CMHC Non-turnover Unit Rent,"$1,122",Gatineau,Full Year
+2022,,,CMHC Turnover Unit Rent,"$1,250",Gatineau,Full Year
+2023,,,Urbanation Average Rent,"$2,377",Ottawa,1
+2023,,,Urbanation Average Rent,"$2,401",Ottawa,2
+2023,,,Urbanation Average Rent,"$2,396",Ottawa,3
+2023,,,Urbanation Average Rent,"$2,402",Ottawa,4
+2024,,,Urbanation Average Rent,"$2,462",Ottawa,1
+2024,,,Urbanation Average Rent,"$2,429",Ottawa,2
+2024,,,Urbanation Average Rent,"$2,417",Ottawa,3
+2024,,,Urbanation Average Rent,"$2,452",Ottawa,4
+2023,,,Urbanation Average Rent,"$2,396",Ottawa,Full Year
+2024,,,Urbanation Average Rent,"$2,438",Ottawa,Full Year
